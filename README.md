@@ -6,31 +6,31 @@ This repository contains a structured guide to implementing Retrieval-Augmented 
 This guide is inspired by and based on the work of [ThatAIGuy](https://github.com/bansalkanav/Generative-AI-Scratch-2-Advance-By-ThatAIGuy). Full credit goes to the original author for their invaluable resources and insights.
 
 ## Topics
-1. **`1_fundamentals_of_rag.ipynb`**  
+- **`1_fundamentals_of_rag.ipynb`**  
    Introduces the basics of Retrieval-Augmented Generation.
 
-2. **`2_langchain_retrieval_pipeline.ipynb`**  
+- **`2_langchain_retrieval_pipeline.ipynb`**  
    Covers how to set up a retrieval pipeline using LangChain for streamlined workflows.  
 
-3. **`3_overview_of_document_loaders.ipynb`**  
+- **`3_overview_of_document_loaders.ipynb`**  
    Provides an overview of document loaders and their role in processing data for retrieval tasks.  
 
-4. **`4_document_loaders.ipynb`**  
+- **`4_document_loaders.ipynb`**  
    A deeper dive into using various document loaders with practical examples.  
 
-5. **`5_text_splitter_transformation.ipynb`**  
+- **`5_text_splitter_transformation.ipynb`**  
    Explains text splitting and transformations to optimize data for embedding and retrieval.  
 
-6. **`6_text_embedding_models.ipynb`**  
+- **`6_text_embedding_models.ipynb`**  
    Focuses on text embedding models and their configurations for generating meaningful vector representations.  
 
-7. **`7_vector_stores_and_retrievers.ipynb`**  
+- **`7_vector_stores_and_retrievers.ipynb`**  
    Discusses vector stores and retrievers, showcasing how to store and retrieve information efficiently.  
 
-8. **`8_retrievers.ipynb`**  
+- **`8_retrievers.ipynb`**  
    Detailed exploration of retriever types and their integration with vector stores.  
 
-9. **`9_End_to_End_RAG_Chain.ipynb`**  
+- **`9_End_to_End_RAG_Chain.ipynb`**  
    Combines all concepts into an end-to-end Retrieval-Augmented Generation pipeline.  
 
 ## How to Use  
