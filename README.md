@@ -42,7 +42,8 @@ This guide is inspired by and based on the work of [ThatAIGuy](https://github.co
 3. Navigate through the notebooks in order, starting with `1_fundamentals_of_rag.ipynb`.  
 
 ## Prerequisites  
-- Python 3.10 or higher  
+- Python 3.10 or higher
+- Google API Key  
 - Jupyter Notebook or Jupyter Lab  
 - All dependencies listed in `requirements.txt`  
 
